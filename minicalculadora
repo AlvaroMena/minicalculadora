@@ -20,5 +20,6 @@ algoritmo minicalculadora
          Escribir "Esa operación no esta permitida"
      finsi
  finsi
-fin
+FinAlgoritmo
+
   
